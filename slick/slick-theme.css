@@ -89,6 +89,7 @@
 .slick-prev:before
 {
     content: '\2190';
+	margin-left: 1vw;
 }
 [dir='rtl'] .slick-prev:before
 {
@@ -107,6 +108,7 @@
 .slick-next:before
 {
     content: '\2192';
+	margin-right: 4vw;
 }
 [dir='rtl'] .slick-next:before
 {
