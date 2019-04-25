@@ -16,11 +16,10 @@
 	.st9{clip-path:url(#SVGID_2_);fill:none;stroke:#231F20;stroke-miterlimit:10;}
 	
 		.st10{clip-path:url(#SVGID_2_);fill:none;stroke:#231F20;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st11{fill:#FFFFFF;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
-	.st12{fill:#FFFFFF;}
-	.st13{fill:#FFFFFF;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st14{fill:#FFFFFF;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st15{fill:#FFFFFF;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st14{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 </style>
 <polygon class="st0" points="650,1170 774,1163 695,1067 "/>
 <polygon class="st0" points="899,1160 827,1067 774,1163 "/>
@@ -203,17 +202,14 @@
 	<polygon class="st11" points="2474.9,2200.9 2559.9,2270.2 2538.8,2389.1 2436.7,2468.8 2279.2,2468.8 2217.6,2346.8 
 		2310.1,2215.3 	"/>
 	<g>
-		<polygon class="st12" points="2242.9,2389.3 2278.3,2266.2 2409.6,2208.6 2541.1,2260 2487.7,2424.6 2322.4,2465.4 		"/>
 		<path d="M2409.7,2211.8l127.7,49.9l-52,160.4l-162.1,40l-77-73.7l34.5-120.1L2409.7,2211.8 M2409.5,2205.3l-133.8,58.7
 			l-36.2,126.2l82,78.5l168.5-41.6l54.8-168.9L2409.5,2205.3L2409.5,2205.3z"/>
 	</g>
 	<g>
-		<polygon class="st12" points="2253.5,2356 2341.3,2238.9 2473,2234 2513.4,2343.3 2396.8,2446.4 		"/>
 		<path d="M2470.9,2237.1l39,105.3l-113.5,100.2l-138.6-87.4l84.9-113.3L2470.9,2237.1 M2475.1,2230.9l-135.3,5l-90.6,120.8
 			l147.9,93.3l119.9-105.9L2475.1,2230.9L2475.1,2230.9z"/>
 	</g>
 	<g>
-		<polygon class="st12" points="2309.2,2386.8 2303.7,2291.3 2492.2,2291.3 2463.2,2386.8 		"/>
 		<path d="M2488.2,2294.3l-27.2,89.5H2312l-5.1-89.5H2488.2 M2496.3,2288.3h-195.7l5.8,101.5h159.1L2496.3,2288.3L2496.3,2288.3z"/>
 	</g>
 	<g>
@@ -221,24 +217,18 @@
 		<path d="M2398.3,2296.2l62.2,56.2l-137.9,7.7L2398.3,2296.2 M2398.4,2288.3l-93.4,78.8l170.1-9.5L2398.4,2288.3L2398.4,2288.3z"/>
 	</g>
 	<g>
-		<polygon class="st12" points="2631.4,2418.6 2654,2306.8 2727.8,2212.9 2869,2203.9 2950,2260 2967.2,2337.1 2926.1,2430.7 
-			2780.5,2492.5 		"/>
 		<path d="M2868.1,2207l79.2,54.8l16.7,75l-40.2,91.6l-143.2,60.8l-145.8-72.3l22-108.8l72.5-92.3L2868.1,2207 M2869.8,2200.9
 			l-143.5,9.1l-75.1,95.6l-23.2,114.7l152.4,75.5l147.9-62.8l42-95.6l-17.7-79.2L2869.8,2200.9L2869.8,2200.9z"/>
 	</g>
 	<g>
-		<polygon class="st12" points="2701.8,2453.1 2643.5,2360.6 2690,2261.3 2806.3,2208.2 2955.1,2285.6 2941.3,2395.4 2839.2,2467.4 
-					"/>
 		<path d="M2806.2,2211.6l145.7,75.8l-13.4,106.4l-100.1,70.5l-134.9-14l-56.6-89.9l45.4-96.7L2806.2,2211.6 M2806.4,2204.9
 			l-118.7,54.2l-47.7,101.7l60,95.1l140,14.6l104.1-73.4l14.3-113.2L2806.4,2204.9L2806.4,2204.9z"/>
 	</g>
 	<g>
-		<polygon class="st12" points="2678.2,2414.8 2666.8,2311.5 2742.1,2237.9 2882.1,2248 2944.2,2341.5 2784.4,2461.3 		"/>
 		<path d="M2743.2,2241l137.2,10l59.7,89.9l-156.1,117l-103-45.1l-11-100.1L2743.2,2241 M2741,2234.8l-77.3,75.6l11.7,106.5
 			l109.4,47.8l163.5-122.5l-64.5-97.1L2741,2234.8L2741,2234.8z"/>
 	</g>
 	<g>
-		<polygon class="st12" points="2672.4,2350.2 2813.2,2243.6 2916.4,2302.4 2762.5,2450.6 		"/>
 		<path d="M2813.4,2247.2l98,55.8l-148.8,143.3l-85.9-95.7L2813.4,2247.2 M2813,2240l-145,109.7l94.4,105.2l159-153.2L2813,2240
 			L2813,2240z"/>
 	</g>
@@ -247,11 +237,11 @@
 		<path d="M2863.7,2283.4l-67.8,126.6l-55.4-103.8L2863.7,2283.4 M2874.8,2275.2l-143.6,26.6l64.5,120.9L2874.8,2275.2
 			L2874.8,2275.2z"/>
 	</g>
-	<polyline class="st13" points="2602,2462.9 2527,2543 2602.2,2549.8 	"/>
-	<polygon class="st14" points="2158.5,2633.4 3022.4,2633.4 3008.7,2798.6 2137.4,2810.2 	"/>
-	<polygon class="st14" points="2971.5,2655.5 2180.8,2662.5 2165.9,2780 2980.2,2770.6 	"/>
-	<polygon class="st14" points="2952.9,2677.6 2214,2677.6 2203.2,2756.7 2944.7,2756.7 	"/>
-	<polygon class="st14" points="2932.8,2696.2 2239.2,2696.2 2231.7,2738.1 2922.7,2738.1 	"/>
-	<path class="st15" d="M2904.5,2717.7"/>
+	<polyline class="st12" points="2602,2462.9 2527,2543 2602.2,2549.8 	"/>
+	<polygon class="st13" points="2158.5,2633.4 3022.4,2633.4 3008.7,2798.6 2137.4,2810.2 	"/>
+	<polygon class="st13" points="2971.5,2655.5 2180.8,2662.5 2165.9,2780 2980.2,2770.6 	"/>
+	<polygon class="st13" points="2952.9,2677.6 2214,2677.6 2203.2,2756.7 2944.7,2756.7 	"/>
+	<polygon class="st13" points="2932.8,2696.2 2239.2,2696.2 2231.7,2738.1 2922.7,2738.1 	"/>
+	<path class="st14" d="M2904.5,2717.7"/>
 </g>
 </svg>

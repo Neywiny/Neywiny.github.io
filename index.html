@@ -1,18 +1,33 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link rel="stylesheet" type="text/css" href="slick/slick.css"/>
-		<link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" type="text/css" href="slick/slick.css" charset="UTF-8"/>
+		<link rel="stylesheet" type="text/css" href="slick/slick-theme.css" charset="UTF-8"/>
+		<style type = "text/css">
+		.content {
+			margin: auto;
+			padding: 20px;
+			width: 80%;
+		}
+		body {
+			background-color: lightblue;
+		}
+		.slick-prev {
+			margin-left: 40px;
+		  }
+
+		  .slick-next {
+			margin-right: 40px;
+		  }
+		</style>
 	</head>
 	<body>		
 		<img src="svg/doodles.svg" alt="woops?">
-		<h1 align="center" style="font-size:10vw; font-family: Arial"> Now build your own </h1>
-		<div class="eyes">
-		</div>
-		<div class="noses">
-		</div>
-		<div class="mouths">
-		</div>
+		<h3 align="center" style="font-family: Arial"> Now build your own </h3>
+		<div class="eyes"></div>
+		<div class="noses"></div>
+		<div class="mouths"></div>
 		<script type="text/javascript" src="javascript/jquery-1.11.0.min.js"></script>
 		<script type="text/javascript" src="javascript/jquery-migrate-1.2.1.min.js"></script>
 		<script type="text/javascript" src="slick/slick.min.js"></script>
@@ -42,19 +57,22 @@
 					arrows: false,
 					mobileFirst: true,
 					touchMove: false,
-					adaptiveHeight: true
+					swipeToSlide : true,
+					arrows: true
 				});
 				$('.noses').slick({
 					arrows: false,
 					mobileFirst: true,
 					touchMove: false,
-					adaptiveHeight: true
+					swipeToSlide : true,
+					arrows: true
 				});
 				$('.mouths').slick({
 					arrows: false,
 					mobileFirst: true,
 					touchMove: false,
-					adaptiveHeight: true
+					swipeToSlide : true,
+					arrows: true
 				});
 			});		
 		</script>

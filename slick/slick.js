@@ -2104,8 +2104,6 @@
             var targetHeight = _.$slides.eq(_.currentSlide).outerHeight(true);
             _.$list.css('height', targetHeight);
         }
-		
-            _.$list.css('height', 450);
 
     };
 
